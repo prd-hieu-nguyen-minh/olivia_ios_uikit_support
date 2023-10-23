@@ -1,0 +1,44 @@
+PODS:
+  - Flutter (1.0.0)
+  - FlutterPluginRegistrant (0.0.1):
+    - Flutter
+    - fluttertoast
+    - path_provider_foundation
+  - fluttertoast (0.0.2):
+    - Flutter
+    - Toast
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - Toast (4.0.0)
+
+DEPENDENCIES:
+  - Flutter (from `../olivia_flutter_module/.ios/Flutter`)
+  - FlutterPluginRegistrant (from `../olivia_flutter_module/.ios/Flutter/FlutterPluginRegistrant`)
+  - fluttertoast (from `../olivia_flutter_module/.ios/.symlinks/plugins/fluttertoast/ios`)
+  - path_provider_foundation (from `../olivia_flutter_module/.ios/.symlinks/plugins/path_provider_foundation/darwin`)
+
+SPEC REPOS:
+  trunk:
+    - Toast
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: "../olivia_flutter_module/.ios/Flutter"
+  FlutterPluginRegistrant:
+    :path: "../olivia_flutter_module/.ios/Flutter/FlutterPluginRegistrant"
+  fluttertoast:
+    :path: "../olivia_flutter_module/.ios/.symlinks/plugins/fluttertoast/ios"
+  path_provider_foundation:
+    :path: "../olivia_flutter_module/.ios/.symlinks/plugins/path_provider_foundation/darwin"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  FlutterPluginRegistrant: 4135d2461cddc801a29df5160bb693f6b0da1f86
+  fluttertoast: 31b00dabfa7fb7bacd9e7dbee580d7a2ff4bf265
+  path_provider_foundation: 29f094ae23ebbca9d3d0cec13889cd9060c0e943
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+
+PODFILE CHECKSUM: bf97a848a5e77c2df319b81cd9b7d6c0a6e41fc9
+
+COCOAPODS: 1.13.0

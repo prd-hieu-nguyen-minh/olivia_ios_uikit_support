@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-OliviaIosUikitSupport-OliviaIosUikitSupportUITests/Pods-OliviaIosUikitSupport-OliviaIosUikitSupportUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Toast/Toast.framework
+${BUILT_PRODUCTS_DIR}/fluttertoast/fluttertoast.framework
+${BUILT_PRODUCTS_DIR}/path_provider_foundation/path_provider_foundation.framework
